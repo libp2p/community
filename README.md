@@ -10,6 +10,8 @@ This repository is a clone of [ipfs/community](https://github.com/ipfs/community
 
 ## Contribute
 
+![](./img/contribute.gif)
+
 Contributions welcome. Please check out [the issues](https://github.com/libp2p/community/issues).
 
 Check out our [contributing document](https://github.com/libp2p/community/blob/master/CONTRIBUTE.md) for more information on how we work, and about contributing in general.
