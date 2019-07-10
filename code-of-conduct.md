@@ -87,6 +87,12 @@ Conduct, please contact us at abuse@libp2p.io to send us an abuse report. If
 this is the initial report of a problem, please include as much detail as
 possible. It is easiest for us to address issues when we have more context.
 
+If you are at an event organized by the libp2p community, contact a _duty
+officer_ or event staff. To learn more about our procedures handling incidents
+and reports at events, read the [IPFS community procedures for in-person
+events](https://github.com/ipfs/community/code-of-conduct-procedures-for-events.md),
+which is adopted by both the libp2p and IPFS communities.
+
 ## Copyright Violations
 
 We respect the intellectual property of others and ask that you do too. If you
