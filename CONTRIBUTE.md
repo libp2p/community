@@ -1,8 +1,9 @@
 # Contributing
 
-[![](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square)](http://ipn.io)
-[![](https://img.shields.io/badge/project-libp2p-blue.svg?style=flat-square)](http://github.com/libp2p/libp2p)
-[![](https://img.shields.io/badge/freenode-%23ipfs-blue.svg?style=flat-square)](http://webchat.freenode.net/?channels=%23ipfs)
+[![](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square)](https://protocol.ai)
+[![](https://img.shields.io/badge/project-libp2p-yellow.svg?style=flat-square)](http://github.com/libp2p/libp2p)
+[![](https://img.shields.io/badge/freenode-%23libp2p-yellow.svg?style=flat-square)](http://webchat.freenode.net/?channels=%23libp2p)
+[![Discourse posts](https://img.shields.io/discourse/https/discuss.libp2p.io/posts.svg)](https://discuss.libp2p.io)
 
 Want to hack on libp2p? Awesome! Here are instructions to get you started.
 They are not perfect yet. Please let us know what feels wrong or incomplete.
@@ -43,7 +44,7 @@ We want to keep the libp2p community awesome, growing and collaborative. We need
 
 - Stay on topic: Make sure that you are posting to the correct channel and avoid off-topic discussions. Remember when you update an issue or respond to an email you are potentially sending to a large number of people. Please consider this before you update. Also remember that nobody likes spam.
 
-There is also a more extensive [code of conduct](https://github.com/ipfs/community/blob/master/code-of-conduct.md) which we follow, which can be found as part of the related IPFS organisation.
+There is also a more extensive [code of conduct](https://github.com/libp2p/community/blob/master/code-of-conduct.md) which we follow, which can be found as part of the related IPFS organisation.
 
 ### Reporting Issues
 
