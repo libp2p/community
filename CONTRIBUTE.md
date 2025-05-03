@@ -79,7 +79,7 @@ The libp2p community requires maintenance of various "public infrastructure" res
 
 This community moves very fast, and documentation swiftly gets out of date. If you would like to add a translation, please open an issue and ask the project captain for a given repository before filing a pull request, so that we do not waste efforts.
 
-If anyone has any issues understanding the English documentation, please let us know! If you would like to do so privately, please email [@RichardLitt](richardlitt@ipfs.io). We are very sensitive to language issues, and do not want to turn anyone away from hacking because of their language.
+If anyone has any issues understanding the English documentation, please let us know! We are very sensitive to language issues, and do not want to turn anyone away from hacking because of their language.
 
 ### Helping in other ways
 
